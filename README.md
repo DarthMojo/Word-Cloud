@@ -8,7 +8,7 @@
 * [React](https://github.com/facebook/react)
 * [d3](https://d3js.org/)
 * [d3-cloud](https://www.npmjs.com/package/d3-v4-cloud)
-* [Babel](https://github.com/babel/babel) & Plugins: [transform-decorators-legacy](https://github.com/loganfsmyth/babel-plugin-transform-decorators-legacy)
+* [Babel](https://github.com/babel/babel)
 * [react-easy-chart](https://www.npmjs.com/package/react-easy-chart)
 * [jest](https://facebook.github.io/jest/)
 * [enzyme](https://github.com/airbnb/enzyme)
