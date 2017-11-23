@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render WordListItem() 1`] = `
+<text
+  className="c-text"
+  onClick={[Function]}
+  style={
+    Object {
+      "cursor": "pointer",
+      "fill": "#49E20E",
+      "fontFamily": "Impact, sans-serif",
+      "fontSize": 17,
+    }
+  }
+  textAnchor="middle"
+  transform="translate(98, 175) rotate(90)"
+>
+  Berlin
+</text>
+`;

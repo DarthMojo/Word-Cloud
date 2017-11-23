@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Metadata() 1`] = `
+<div>
+  <BackButton
+    onButtonClick={[Function]}
+  />
+  <div
+    className="Metadata"
+  >
+    <div
+      className="Metadata-Child"
+    >
+      <WordLabel
+        dimensions={
+          Object {
+            "height": 768,
+            "width": 1024,
+          }
+        }
+        wordLabel="Berlin"
+      />
+      <DataPieChart
+        chartTitle="Sentiment Breakdown"
+        data={
+          Array [
+            Object {
+              "x": "negative",
+              "y": 3,
+            },
+            Object {
+              "x": "neutral",
+              "y": 133,
+            },
+            Object {
+              "x": "positive",
+              "y": 29,
+            },
+          ]
+        }
+        dimensions={
+          Object {
+            "height": 768,
+            "width": 1024,
+          }
+        }
+      />
+    </div>
+    <div
+      className="Metadata-Child"
+    >
+      <DataBarChart
+        chartTitle="Page Hits"
+        data={
+          Array [
+            Object {
+              "x": "blog",
+              "y": 17,
+            },
+            Object {
+              "x": "facebook",
+              "y": 56,
+            },
+            Object {
+              "x": "forum",
+              "y": 22,
+            },
+            Object {
+              "x": "general",
+              "y": 5,
+            },
+            Object {
+              "x": "image",
+              "y": 0,
+            },
+            Object {
+              "x": "news",
+              "y": 26,
+            },
+            Object {
+              "x": "review",
+              "y": 1,
+            },
+            Object {
+              "x": "twitter",
+              "y": 35,
+            },
+            Object {
+              "x": "video",
+              "y": 3,
+            },
+          ]
+        }
+        dimensions={
+          Object {
+            "height": 768,
+            "width": 1024,
+          }
+        }
+      />
+      <DataBarChart
+        chartTitle="Popularity Stats Over Time"
+        data={
+          Array [
+            Object {
+              "x": "Fri Jun 06 2014",
+              "y": 22,
+            },
+            Object {
+              "x": "Wed Jun 04 2014",
+              "y": 43,
+            },
+            Object {
+              "x": "Mon Jun 09 2014",
+              "y": 0,
+            },
+            Object {
+              "x": "Sat Jun 07 2014",
+              "y": 12,
+            },
+            Object {
+              "x": "Sun Jun 08 2014",
+              "y": 11,
+            },
+            Object {
+              "x": "Tue Jun 03 2014",
+              "y": 39,
+            },
+            Object {
+              "x": "Thu Jun 05 2014",
+              "y": 38,
+            },
+          ]
+        }
+        dimensions={
+          Object {
+            "height": 768,
+            "width": 1024,
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;

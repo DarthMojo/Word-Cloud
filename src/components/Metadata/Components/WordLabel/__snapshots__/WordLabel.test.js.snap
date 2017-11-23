@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render WordLabel() 1`] = `
+<div
+  className="WordLabel"
+  style={
+    Object {
+      "height": 384,
+      "width": 1024,
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "color": "black",
+      }
+    }
+  >
+     
+    mockLabel
+  </div>
+</div>
+`;

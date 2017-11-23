@@ -1,0 +1,6 @@
+.ChartTitle{
+    display: flex;
+    font-size: 2em;
+    justify-content: center;
+    text-decoration: underline;
+}

@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render WordList() 1`] = `
+Array [
+  <WordListItem
+    id="1751295897__Berlin"
+    key="1751295897__Berlin"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__DJ"
+    key="1751295897__DJ"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Ostgut Ton"
+    key="1751295897__Ostgut Ton"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Hammered"
+    key="1751295897__Hammered"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Code"
+    key="1751295897__Code"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Quantified Drunk"
+    key="1751295897__Quantified Drunk"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Berghain resident"
+    key="1751295897__Berghain resident"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__San Soda's Panorama Bar"
+    key="1751295897__San Soda's Panorama Bar"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Germany"
+    key="1751295897__Germany"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Amsterdam"
+    key="1751295897__Amsterdam"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Kantine am Berghain"
+    key="1751295897__Kantine am Berghain"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__London"
+    key="1751295897__London"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__UK"
+    key="1751295897__UK"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Marcel Dettmann"
+    key="1751295897__Marcel Dettmann"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Disco"
+    key="1751295897__Disco"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Barcelona"
+    key="1751295897__Barcelona"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Watergate"
+    key="1751295897__Watergate"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__debut LP"
+    key="1751295897__debut LP"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Patrick Gräser"
+    key="1751295897__Patrick Gräser"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Panorama Bar in Berlin"
+    key="1751295897__Panorama Bar in Berlin"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__legendary nightclub"
+    key="1751295897__legendary nightclub"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Ben Klock"
+    key="1751295897__Ben Klock"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Mixes"
+    key="1751295897__Mixes"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Panorama Bar Music"
+    key="1751295897__Panorama Bar Music"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Terrace Sundae"
+    key="1751295897__Terrace Sundae"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Jun"
+    key="1751295897__Jun"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__Live set"
+    key="1751295897__Live set"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__dance music"
+    key="1751295897__dance music"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__club culture"
+    key="1751295897__club culture"
+    onWordItemClick={[Function]}
+  />,
+  <WordListItem
+    id="1751295897__D/B Presents"
+    key="1751295897__D/B Presents"
+    onWordItemClick={[Function]}
+  />,
+]
+`;

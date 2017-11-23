@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render BackButton() 1`] = `
+<div>
+  <a
+    className="BackButton"
+    onClick={[Function]}
+  />
+</div>
+`;

@@ -1,0 +1,25 @@
+.BackButton {
+    position: absolute;
+    right: 32px;
+    top: 32px;
+    width: 32px;
+    height: 32px;
+    opacity: 0.8;
+}
+.BackButton:hover {
+    opacity: 1;
+}
+.BackButton:before, .BackButton:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 33px;
+    width: 2px;
+    background-color: #333;
+}
+.BackButton:before {
+    transform: rotate(45deg);
+}
+.BackButton:after {
+    transform: rotate(-45deg);
+}

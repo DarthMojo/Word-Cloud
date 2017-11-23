@@ -1,0 +1,6 @@
+.WordLabel {
+    font-size: 4em;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}

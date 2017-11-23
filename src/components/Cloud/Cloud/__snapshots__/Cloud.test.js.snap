@@ -1,0 +1,1807 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Cloud() 1`] = `
+<svg
+  height={768}
+  width={1024}
+>
+  <g
+    transform="translate(512, 384)"
+  >
+    <WordList
+      onWordItemClick={[Function]}
+      wordList={
+        Array [
+          Object {
+            "burst": 13,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 22,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 43,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 12,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 11,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 39,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 38,
+              },
+            ],
+            "id": "1751295897__Berlin",
+            "label": "Berlin",
+            "pageType": Object {
+              "blog": 17,
+              "facebook": 56,
+              "forum": 22,
+              "general": 5,
+              "image": 0,
+              "news": 26,
+              "review": 1,
+              "twitter": 35,
+              "video": 3,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 165,
+              },
+            ],
+            "sentiment": Object {
+              "negative": 3,
+              "neutral": 133,
+              "positive": 29,
+            },
+            "sentimentScore": 65,
+            "type": "topic",
+            "volume": 165,
+          },
+          Object {
+            "burst": 29,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 4,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 10,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 11,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 12,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 8,
+              },
+            ],
+            "id": "1751295897__DJ",
+            "label": "DJ",
+            "pageType": Object {
+              "blog": 4,
+              "facebook": 13,
+              "forum": 8,
+              "general": 1,
+              "image": 0,
+              "news": 7,
+              "review": 1,
+              "twitter": 13,
+              "video": 1,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 48,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 46,
+              "positive": 2,
+            },
+            "sentimentScore": 54,
+            "type": "topic",
+            "volume": 48,
+          },
+          Object {
+            "burst": 25,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 4,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 4,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 5,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 6,
+              },
+            ],
+            "id": "1751295897__Ostgut Ton",
+            "label": "Ostgut Ton",
+            "pageType": Object {
+              "blog": 4,
+              "facebook": 5,
+              "forum": 2,
+              "general": 3,
+              "image": 0,
+              "news": 8,
+              "review": 1,
+              "twitter": 0,
+              "video": 1,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 24,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 22,
+              "positive": 2,
+            },
+            "sentimentScore": 58,
+            "type": "topic",
+            "volume": 24,
+          },
+          Object {
+            "burst": 5,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 8,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 8,
+              },
+            ],
+            "id": "1751295897__Hammered",
+            "label": "Hammered",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 3,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 15,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 18,
+              },
+            ],
+            "sentiment": Object {
+              "negative": 30,
+              "neutral": 18,
+            },
+            "sentimentScore": 20,
+            "type": "topic",
+            "volume": 48,
+          },
+          Object {
+            "burst": 25,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 5,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 2,
+              },
+            ],
+            "id": "1751295897__Code",
+            "label": "Code",
+            "pageType": Object {
+              "blog": 2,
+              "facebook": 5,
+              "forum": 2,
+              "general": 2,
+              "image": 0,
+              "news": 5,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 16,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 13,
+              "positive": 3,
+            },
+            "sentimentScore": 68,
+            "type": "topic",
+            "volume": 16,
+          },
+          Object {
+            "burst": 7,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 8,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 4,
+              },
+            ],
+            "id": "1751295897__Quantified Drunk",
+            "label": "Quantified Drunk",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 3,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 11,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 14,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 14,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 14,
+          },
+          Object {
+            "burst": 0,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 5,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 3,
+              },
+            ],
+            "id": "1751295897__Berghain resident",
+            "label": "Berghain resident",
+            "pageType": Object {
+              "blog": 2,
+              "facebook": 1,
+              "forum": 3,
+              "general": 2,
+              "image": 0,
+              "news": 4,
+              "review": 0,
+              "twitter": 0,
+              "video": 1,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 13,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 10,
+              "positive": 3,
+            },
+            "sentimentScore": 73,
+            "type": "topic",
+            "volume": 13,
+          },
+          Object {
+            "burst": 15,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 4,
+              },
+            ],
+            "id": "1751295897__San Soda's Panorama Bar",
+            "label": "San Soda's Panorama Bar",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 3,
+              "forum": 1,
+              "general": 0,
+              "image": 0,
+              "news": 1,
+              "review": 0,
+              "twitter": 8,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 13,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 13,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 13,
+          },
+          Object {
+            "burst": 7,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 5,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 5,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 1,
+              },
+            ],
+            "id": "1751295897__Germany",
+            "label": "Germany",
+            "pageType": Object {
+              "blog": 3,
+              "facebook": 5,
+              "forum": 1,
+              "general": 0,
+              "image": 0,
+              "news": 3,
+              "review": 0,
+              "twitter": 1,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 13,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 9,
+              "positive": 4,
+            },
+            "sentimentScore": 80,
+            "type": "topic",
+            "volume": 13,
+          },
+          Object {
+            "burst": 25,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 4,
+              },
+            ],
+            "id": "1751295897__Amsterdam",
+            "label": "Amsterdam",
+            "pageType": Object {
+              "blog": 1,
+              "facebook": 4,
+              "forum": 2,
+              "general": 2,
+              "image": 0,
+              "news": 2,
+              "review": 1,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 12,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 7,
+              "positive": 5,
+            },
+            "sentimentScore": 91,
+            "type": "topic",
+            "volume": 12,
+          },
+          Object {
+            "burst": 27,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 3,
+              },
+            ],
+            "id": "1751295897__Kantine am Berghain",
+            "label": "Kantine am Berghain",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 8,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 1,
+              "review": 0,
+              "twitter": 2,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 11,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 10,
+              "positive": 1,
+            },
+            "sentimentScore": 59,
+            "type": "topic",
+            "volume": 11,
+          },
+          Object {
+            "burst": 9,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 5,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 2,
+              },
+            ],
+            "id": "1751295897__London",
+            "label": "London",
+            "pageType": Object {
+              "blog": 1,
+              "facebook": 5,
+              "forum": 1,
+              "general": 1,
+              "image": 0,
+              "news": 2,
+              "review": 0,
+              "twitter": 1,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 11,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 8,
+              "positive": 3,
+            },
+            "sentimentScore": 77,
+            "type": "topic",
+            "volume": 11,
+          },
+          Object {
+            "burst": 50,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 0,
+              },
+            ],
+            "id": "1751295897__UK",
+            "label": "UK",
+            "pageType": Object {
+              "blog": 3,
+              "facebook": 3,
+              "forum": 2,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 8,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 8,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 8,
+          },
+          Object {
+            "burst": 12,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 4,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 2,
+              },
+            ],
+            "id": "1751295897__Marcel Dettmann",
+            "label": "Marcel Dettmann",
+            "pageType": Object {
+              "blog": 1,
+              "facebook": 1,
+              "forum": 2,
+              "general": 1,
+              "image": 0,
+              "news": 2,
+              "review": 0,
+              "twitter": 0,
+              "video": 1,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 8,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 5,
+              "positive": 3,
+            },
+            "sentimentScore": 87,
+            "type": "topic",
+            "volume": 8,
+          },
+          Object {
+            "burst": 50,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 4,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 0,
+              },
+            ],
+            "id": "1751295897__Disco",
+            "label": "Disco",
+            "pageType": Object {
+              "blog": 2,
+              "facebook": 5,
+              "forum": 1,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 8,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 8,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 8,
+          },
+          Object {
+            "burst": 0,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 0,
+              },
+            ],
+            "id": "1751295897__Barcelona",
+            "label": "Barcelona",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 5,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 2,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 7,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 7,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 7,
+          },
+          Object {
+            "burst": 14,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 1,
+              },
+            ],
+            "id": "1751295897__Watergate",
+            "label": "Watergate",
+            "pageType": Object {
+              "blog": 1,
+              "facebook": 3,
+              "forum": 1,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 2,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 7,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 6,
+              "positive": 1,
+            },
+            "sentimentScore": 64,
+            "type": "topic",
+            "volume": 7,
+          },
+          Object {
+            "burst": 33,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 0,
+              },
+            ],
+            "id": "1751295897__debut LP",
+            "label": "debut LP",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 3,
+              "forum": 1,
+              "general": 0,
+              "image": 0,
+              "news": 2,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 6,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 3,
+              "positive": 3,
+            },
+            "sentimentScore": 100,
+            "type": "topic",
+            "volume": 6,
+          },
+          Object {
+            "burst": 0,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 1,
+              },
+            ],
+            "id": "1751295897__Patrick Gräser",
+            "label": "Patrick Gräser",
+            "pageType": Object {
+              "blog": 1,
+              "facebook": 0,
+              "forum": 1,
+              "general": 1,
+              "image": 0,
+              "news": 3,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 6,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 3,
+              "positive": 3,
+            },
+            "sentimentScore": 100,
+            "type": "topic",
+            "volume": 6,
+          },
+          Object {
+            "burst": 50,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 1,
+              },
+            ],
+            "id": "1751295897__Panorama Bar in Berlin",
+            "label": "Panorama Bar in Berlin",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 5,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 1,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 6,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 4,
+              "positive": 2,
+            },
+            "sentimentScore": 83,
+            "type": "topic",
+            "volume": 6,
+          },
+          Object {
+            "burst": 0,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 5,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 0,
+              },
+            ],
+            "id": "1751295897__legendary nightclub",
+            "label": "legendary nightclub",
+            "pageType": Object {
+              "blog": 1,
+              "facebook": 3,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 0,
+              "video": 2,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 6,
+              },
+            ],
+            "sentiment": Object {
+              "positive": 6,
+            },
+            "sentimentScore": 150,
+            "type": "topic",
+            "volume": 6,
+          },
+          Object {
+            "burst": 20,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 1,
+              },
+            ],
+            "id": "1751295897__Ben Klock",
+            "label": "Ben Klock",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 1,
+              "forum": 2,
+              "general": 0,
+              "image": 0,
+              "news": 2,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 5,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 5,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 5,
+          },
+          Object {
+            "burst": 60,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 0,
+              },
+            ],
+            "id": "1751295897__Mixes",
+            "label": "Mixes",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 0,
+              "forum": 5,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 5,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 5,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 5,
+          },
+          Object {
+            "burst": 0,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 0,
+              },
+            ],
+            "id": "1751295897__Panorama Bar Music",
+            "label": "Panorama Bar Music",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 3,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 2,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 5,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 5,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 5,
+          },
+          Object {
+            "burst": 0,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 3,
+              },
+            ],
+            "id": "1751295897__Terrace Sundae",
+            "label": "Terrace Sundae",
+            "pageType": Object {
+              "blog": 2,
+              "facebook": 0,
+              "forum": 2,
+              "general": 1,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 5,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 5,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 5,
+          },
+          Object {
+            "burst": 0,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 3,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 1,
+              },
+            ],
+            "id": "1751295897__Jun",
+            "label": "Jun",
+            "pageType": Object {
+              "blog": 1,
+              "facebook": 3,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 1,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 5,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 5,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 5,
+          },
+          Object {
+            "burst": 50,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 0,
+              },
+            ],
+            "id": "1751295897__Live set",
+            "label": "Live set",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 4,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 4,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 3,
+              "positive": 1,
+            },
+            "sentimentScore": 75,
+            "type": "topic",
+            "volume": 4,
+          },
+          Object {
+            "burst": 0,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 1,
+              },
+            ],
+            "id": "1751295897__dance music",
+            "label": "dance music",
+            "pageType": Object {
+              "blog": 1,
+              "facebook": 0,
+              "forum": 1,
+              "general": 0,
+              "image": 0,
+              "news": 1,
+              "review": 0,
+              "twitter": 1,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 4,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 4,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 4,
+          },
+          Object {
+            "burst": 0,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 1,
+              },
+            ],
+            "id": "1751295897__club culture",
+            "label": "club culture",
+            "pageType": Object {
+              "blog": 0,
+              "facebook": 0,
+              "forum": 1,
+              "general": 0,
+              "image": 0,
+              "news": 2,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 3,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 3,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 3,
+          },
+          Object {
+            "burst": 33,
+            "days": Array [
+              Object {
+                "date": "2014-06-06T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-04T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-09T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-07T00:00:00.000+0000",
+                "volume": 0,
+              },
+              Object {
+                "date": "2014-06-08T00:00:00.000+0000",
+                "volume": 1,
+              },
+              Object {
+                "date": "2014-06-03T00:00:00.000+0000",
+                "volume": 2,
+              },
+              Object {
+                "date": "2014-06-05T00:00:00.000+0000",
+                "volume": 0,
+              },
+            ],
+            "id": "1751295897__D/B Presents",
+            "label": "D/B Presents",
+            "pageType": Object {
+              "blog": 3,
+              "facebook": 0,
+              "forum": 0,
+              "general": 0,
+              "image": 0,
+              "news": 0,
+              "review": 0,
+              "twitter": 0,
+              "video": 0,
+            },
+            "queries": Array [
+              Object {
+                "id": 1751295897,
+                "name": "Berghain",
+                "volume": 3,
+              },
+            ],
+            "sentiment": Object {
+              "neutral": 3,
+            },
+            "sentimentScore": 50,
+            "type": "topic",
+            "volume": 3,
+          },
+        ]
+      }
+    />
+  </g>
+</svg>
+`;

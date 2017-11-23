@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render DataBarChart() 1`] = `
+<div>
+  <div
+    className="ChartTitle"
+  />
+  <BarChart
+    axes={true}
+    axisLabels={
+      Object {
+        "x": "",
+        "y": "",
+      }
+    }
+    barWidth={10}
+    clickHandler={[Function]}
+    colorBars={true}
+    data={
+      Array [
+        Object {
+          "x": "blog",
+          "y": 17,
+        },
+        Object {
+          "x": "facebook",
+          "y": 56,
+        },
+        Object {
+          "x": "forum",
+          "y": 22,
+        },
+        Object {
+          "x": "general",
+          "y": 5,
+        },
+        Object {
+          "x": "image",
+          "y": 0,
+        },
+        Object {
+          "x": "news",
+          "y": 26,
+        },
+        Object {
+          "x": "review",
+          "y": 1,
+        },
+        Object {
+          "x": "twitter",
+          "y": 35,
+        },
+        Object {
+          "x": "video",
+          "y": 3,
+        },
+      ]
+    }
+    datePattern="%d-%b-%y"
+    grid={true}
+    height={576}
+    interpolate="linear"
+    lineData={Array []}
+    margin={
+      Object {
+        "bottom": 50,
+        "left": 50,
+        "right": 50,
+        "top": 50,
+      }
+    }
+    mouseMoveHandler={[Function]}
+    mouseOutHandler={[Function]}
+    mouseOverHandler={[Function]}
+    width={1024}
+    xType="text"
+    y2Type="linear"
+    yTickNumber={5}
+    yType="linear"
+  />
+</div>
+`;

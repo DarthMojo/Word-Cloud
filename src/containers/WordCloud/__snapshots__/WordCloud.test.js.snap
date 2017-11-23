@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render WordCloud() 1`] = `
+<Cloud
+  dimensions={
+    Object {
+      "height": 768,
+      "width": 1024,
+    }
+  }
+  onWordItemClick={[Function]}
+  wordList={Array []}
+/>
+`;
